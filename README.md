@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @yogeshkumardev
+- 👀 I’m interested in web development, specifically full-stack development using JavaScript, React, Next.js, and TypeScript.
+- 🌱 I’m currently learning advanced backend development with Node.js, Prisma ORM, and database technologies like MongoDB.
+- 💞️ I’m looking to collaborate on open-source projects, web development tutorials, and building modern web applications.
+- 📫 How to reach me: [yogeshkumardev@example.com](mailto:yogeshkumardev@example.com) | [LinkedIn](https://www.linkedin.com/in/yogeshkumardev/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love teaching JavaScript and enjoy creating content to help others learn programming!
